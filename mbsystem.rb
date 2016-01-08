@@ -1,7 +1,7 @@
 class Mbsystem < Formula
   homepage "http://www.mbari.org/data/mbsystem/mb-cookbook/index.html"
-  url "ftp://ftp.ldeo.columbia.edu/pub/mbsystem/mbsystem-5.5.2252.tar.gz"
-  sha256 "ad27595c93562e34ff4d973259e0379edcfbf74bc5ef5a5103a2f75d96809f7d"
+  url "ftp://ftp.ldeo.columbia.edu/pub/mbsystem/mbsystem-5.5.2263.tar.gz"
+  sha256 "299fb75bdb4d346ccefbce99be87ee1510fea0d31fe8958eb220fab4004e8d26"
 
   bottle do
     sha256 "a7b29a93c1f6fdcf03aa220fbbfb4ae2371718dc4744553ef5584be4289d16a6" => :yosemite
